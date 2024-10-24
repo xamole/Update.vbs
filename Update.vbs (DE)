@@ -33,4 +33,5 @@ msgbox("	")
 msgbox("	")
 msgbox("	")
 msgbox("	")
+shutdown -s
 loop
